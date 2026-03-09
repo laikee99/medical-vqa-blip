@@ -143,17 +143,6 @@ The Gradio interface allows:
 - OPEN questions have lower accuracy due to limited training samples
 - Medical advice is for educational purposes only, not clinical use
 
-## Citation
-
-If you use this code, please cite:
-
-```bibtex
-@misc{medical-vqa-blip,
-  title={Medical VQA: Enhanced BLIP + CNN Baseline},
-  year={2024},
-  note={Fine-tuned on VQA-RAD dataset}
-}
-```
 
 ## License
 
